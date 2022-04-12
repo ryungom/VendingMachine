@@ -1,5 +1,4 @@
 # 🥤VendingMachine_making
-[완성페이지](https://ryungom.github.io/VendingMachine/)
 ---
 ## ⚙️issue list
 - 22.04.13
@@ -7,3 +6,4 @@
   - z-index를 사용하면 될것같긴한데... 안먹힌다
 ---
 
+[완성페이지](https://ryungom.github.io/VendingMachine/)
