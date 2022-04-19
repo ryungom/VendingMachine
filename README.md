@@ -1,4 +1,6 @@
 # 🥤VendingMachine_making
+<center>![완성페이지](https://github.com/ryungom/VendingMachine/blob/main/images/view.gif)</center>
+<center> [완성페이지 보러가기](https://ryungom.github.io/VendingMachine/)</center>
 ---
 ## ⚙️issue list
 - 22.04.13
@@ -13,8 +15,3 @@
   - 왼쪽요소(.list)와 오른쪽요소(.result)의 float을 none으로 주어 노멀flow에 그대로 안착되어 상위요소인 main이 flex로 하위요소들을 컨트롤 할 수 있도록 바꾸었다.
   - 얼추 피드백을 받은 후, JS요소를 추가하여 진정한 vendingMachine이 될 수 있도록 조정해봐야 할듯 하다.
   - class명 작명을 아직 엄두도 내지 못하였다. 보다 직관적인 class명이 될 수 있도록 진행하기.
-   
----
-
-![완성페이지](https://github.com/ryungom/VendingMachine/blob/main/images/view.gif)
-[완성페이지](https://ryungom.github.io/VendingMachine/)
