@@ -1,7 +1,7 @@
 # 🥤VendingMachine_making
 <center>![완성페이지](https://github.com/ryungom/VendingMachine/blob/main/images/view.gif)</center>
-<center> [완성페이지 보러가기](https://ryungom.github.io/VendingMachine/)</center>
----
+<center> - [완성페이지 보러가기](https://ryungom.github.io/VendingMachine/)</center>
+
 ## ⚙️issue list
 - 22.04.13
   - html,css를 이용하여 최대한 비슷하게 완성. 그러나 딱 한군데, 보라색 콜라위에 검은 배경으로 투명도 80정도로 '품절'로고 띄우기 실패.
