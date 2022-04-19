@@ -1,6 +1,6 @@
 # 🥤VendingMachine_making
-<center>![완성페이지](https://github.com/ryungom/VendingMachine/blob/main/images/view.gif)</center>
-<center> - [완성페이지 보러가기](https://ryungom.github.io/VendingMachine/)</center>
+![완성페이지](https://github.com/ryungom/VendingMachine/blob/main/images/view.gif)
+- [완성페이지 보러가기](https://ryungom.github.io/VendingMachine/)
 
 ## ⚙️issue list
 - 22.04.13
